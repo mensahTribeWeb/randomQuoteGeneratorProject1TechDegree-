@@ -67,7 +67,7 @@ portfolio piece to showcase your understanding of JavaScript fundamentals.
       
       - [x] Background color changes to a random color each time the quote refreshes.
       
-    ##cCode comments :
+   ## Code comments :
     
    - [x] provided their own code comments.
 
