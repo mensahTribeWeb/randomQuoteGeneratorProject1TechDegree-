@@ -17,11 +17,11 @@ portfolio piece to showcase your understanding of JavaScript fundamentals.
   
    Exceeds Expectations
    
-      - [x] Array of Objects 
+   - [X] Array of Objects
       
       - [x] is named `quotes` 
        
-      - [x] contains at least 5 quote objects.
+     - [x] contains at least 5 quote objects.
       
       - [x] is free of errors that prevent the code from running.
       
@@ -29,9 +29,9 @@ portfolio piece to showcase your understanding of JavaScript fundamentals.
    
    Exceeds expectations if meets expectations plus all of the following are true:
    
-      - [x] All objects have `quote` and `source` properties.
+   - [x] All objects have `quote` and `source` properties.
       
-      - [x] At least one object has `citation` property.
+       - [x] At least one object has `citation` property.
       
       - [x] At least one object has `year` property.
       
@@ -43,7 +43,7 @@ portfolio piece to showcase your understanding of JavaScript fundamentals.
   
    getRandomQuote function:
    
-      - [x] is named `getRandomQuote`:
+   - [x] is named `getRandomQuote`:
       
       - [x] returns a random object from the `quotes` array.
     
@@ -51,7 +51,7 @@ portfolio piece to showcase your understanding of JavaScript fundamentals.
    
     printQuote function:
     
-      - [x] is named `printQuote`.
+   - [x] is named `printQuote`.
       
       - [x] calls the `getRandomQuote` function.
       
@@ -69,6 +69,6 @@ portfolio piece to showcase your understanding of JavaScript fundamentals.
       
     ##cCode comments :
     
-       - [x] provided their own code comments.
+   - [x] provided their own code comments.
 
     
