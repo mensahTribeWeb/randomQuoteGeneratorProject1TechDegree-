@@ -8,10 +8,10 @@ This project is a fun and effective way for you to practice basic JavaScript ski
 portfolio piece to showcase your understanding of JavaScript fundamentals.
 
 ## Create an array of JS objective which contains qoutes:
-   [x] Develop skills using JavaScript Loops
-   [x] Develop skills using JavaScript Arrays
-   [x] Develop skills using JavaScript Object Literals
-   [x] Develop skills declaring variables with Let and Const
+   - [x] Developed skills using JavaScript Loops
+   - [x] Developed skills using JavaScript Arrays
+   - [x] Developed skills using JavaScript Object Literals
+   - [x] Developed skills declaring variables with Let and Const
   
  ## Array of Objects:
   
