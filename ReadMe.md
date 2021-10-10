@@ -1,6 +1,6 @@
 ## Treehouse-Techdegree-Project1-RandomQuoteGenerator
-My First Project of the Treehouse Tech Degree in Full Stack JavaScript Development
-You'll use your growing knowledge of basic JavaScript syntax, variables, loops, conditionals and object literals to:
+My First Treehouse Full Stack JavaScript Tech Degree Project
+You'll use your growing knowledge of basic JavaScript syntax, variables, loops, conditionals, functions and object literals to:
 
 Build the array of quote objects to store the quotes.
 Write your own functions for selecting random quotes from the array and printing them to the screen.
@@ -8,7 +8,7 @@ This project is a fun and effective way for you to practice basic JavaScript ski
 portfolio piece to showcase your understanding of JavaScript fundamentals.
 
 ## Create an array of JS objective which contains qoutes:
-   - [x] Developed skills using JavaScript Loops
+   - [X] Developed skills using JavaScript Loops
    - [x] Developed skills using JavaScript Arrays
    - [x] Developed skills using JavaScript Object Literals
    - [x] Developed skills declaring variables with Let and Const
@@ -19,11 +19,11 @@ portfolio piece to showcase your understanding of JavaScript fundamentals.
    
    - [X] Array of Objects
       
-      - [x] is named `quotes` 
+   - [x] is named `quotes` 
        
-     - [x] contains at least 5 quote objects.
+   - [x] contains at least 5 quote objects.
       
-      - [x] is free of errors that prevent the code from running.
+   - [x] is free of errors that prevent the code from running.
       
    Object Properties
    
@@ -45,7 +45,7 @@ portfolio piece to showcase your understanding of JavaScript fundamentals.
    
    - [x] is named `getRandomQuote`:
       
-      - [x] returns a random object from the `quotes` array.
+   - [x] returns a random object from the `quotes` array.
     
   ## Create a function named `printQuote` :
    
@@ -53,19 +53,19 @@ portfolio piece to showcase your understanding of JavaScript fundamentals.
     
    - [x] is named `printQuote`.
       
-      - [x] calls the `getRandomQuote` function.
+   - [x] calls the `getRandomQuote` function.
       
-      - [x] prints a `quote` and a `source` property with every quote.
+   - [x] prints a `quote` and a `source` property with every quote.
       
-      - [x] prints a `citation` property with at least one quote.
+   - [x] prints a `citation` property with at least one quote.
       
-      - [x] prints a `year` property with at least one quote.
+   - [x] prints a `year` property with at least one quote.
       
-      - [x] printed quotes match the format, layout and styles of the example quote in the `index.html` file.
+   - [x] printed quotes match the format, layout and styles of the example quote in the `index.html` file.
       
-      - [x] Quotes automatically refresh at regular intervals.
+   - [x] Quotes automatically refresh at regular intervals.
       
-      - [x] Background color changes to a random color each time the quote refreshes.
+   - [x] Background color changes to a random color each time the quote refreshes.
       
    ## Code comments :
     
