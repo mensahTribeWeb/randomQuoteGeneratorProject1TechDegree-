@@ -128,7 +128,7 @@ function getRandomQuote() {
 
 
 function printQuote() {
-  let quoteBox = [];
+  let quoteBox = " ";
   const newQuote = getRandomQuote();
   quoteBox += '<p class="quote">' + newQuote.quote + '</p>';
   quoteBox += '<p class="source">' + newQuote.source +'</p>';
