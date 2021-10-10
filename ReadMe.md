@@ -31,13 +31,13 @@ portfolio piece to showcase your understanding of JavaScript fundamentals.
    
    - [x] All objects have `quote` and `source` properties.
       
-       - [x] At least one object has `citation` property.
+   - [x] At least one object has `citation` property.
       
-      - [x] At least one object has `year` property.
+   - [x] At least one object has `year` property.
       
-      - [x] At least one object has at least one additional property, such as `tags`.
+   - [x] At least one object has at least one additional property, such as `tags`.
       
-      - [x] At least one additional property prints to the page with the its (`tags` property) quote.
+   - [x] At least one additional property prints to the page with the its (`tags` property) quote.
       
   ## Create a function named `getRandomQuote` 
   
